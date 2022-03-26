@@ -6,6 +6,13 @@ body{
     background-color: greenyellow;
 }
 
+label {
+    margin-left: 12px;
+    font-weight: bold;
+    font-size: large;
+    line-height: 35px;
+}
+
 hr {
    border: solid;
    border-radius: 15px;
@@ -14,6 +21,36 @@ hr {
 .container {
     width: 1910px;
     height: 364px;
+}
+
+.leftside {
+    width: 498px;
+    height: 544px;
+    margin: auto;
+    margin-top: -555px;
+    margin-left: 7px;
+    background: rgba(255,255,255,0.5);
+    border-radius: 40px;
+}
+
+.rightside {
+    width: 508px;
+    height: 711px;
+    margin: auto;
+    margin-top: -711px;
+    margin-left: 1386px;
+    background: rgba(255,255,255,0.5);
+    border-radius: 40px;
+}
+
+.chest {
+    width: 861px;
+    height: 685px;
+    margin: auto;
+    margin-top: -177px;
+    background: rgba(0,0,0,0.2);
+    border-radius: 32px;
+    margin-left: 27%;
 }
 
 .watermark {
@@ -48,6 +85,22 @@ hr {
     float: right;
     margin-top: -6%;
     margin-right: 10%;
+}
+
+.icone {
+    width: 90px;
+    height: 115px;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+.descrizione {
+    font-weight: bold;
+    vertical-align: 250%;
+    margin-left: 2%;
+    color: white;
+    font-size: large;
+    font-family: cursive;
 }
 
 #chef {
@@ -116,4 +169,61 @@ hr {
     margin-top: 11%;
     color: #1175f1;
     width: 160%;
+}
+
+#menu {
+    text-align: center;
+    padding: 20px;
+    font-family: cursive;
+    word-spacing: 11px;
+    color: black;
+    font-weight: bold;
+}
+
+#menurule {
+    width: 95%;
+}
+
+#caption {
+    text-align: center;
+    padding: 17px;
+}
+
+#description {
+    font-weight: bold;
+    font-size: large;
+    margin-left: 7px;
+}
+
+#loschifo {
+    width: 61%;
+    margin-top: 4px;
+    margin-left: 87px;
+    border-radius: 21px;
+}
+
+#bomba {
+    width: 42%;
+    height: 30%;
+    margin-left: 29%;
+    margin-top: 12%;
+}
+
+#scale {
+    margin-left: 20px;
+}
+
+#parere {
+    margin-left: 12px;
+    border-radius: 11px;    
+    margin-top: 8px;
+}
+
+#address {
+    border-radius: 11px;
+
+}
+
+#name {
+    border-radius: 11px;
 }
