@@ -6,3 +6,114 @@ body{
     background-color: greenyellow;
 }
 
+hr {
+   border: solid;
+   border-radius: 15px;
+}
+
+.container {
+    width: 1910px;
+    height: 364px;
+}
+
+.watermark {
+    width: 415px;
+    height: 350px;
+    margin-top: 25px;
+    margin-left: 85px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 20px;
+    padding: 17px;
+}
+
+.principle {
+    width: 43%;
+    height: 157px;
+    margin-left: 516px;
+    margin-top: -322px;
+    max-width: 69%;
+}
+
+.intestazione {
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 27px;
+    letter-spacing: 5px;
+    text-align: right;
+}
+
+.propeller {
+    width: 15%;
+    height: 17%;
+    float: right;
+    margin-top: -6%;
+    margin-right: 10%;
+}
+
+#chef {
+    width: 95%;
+    height: 70%;
+    margin-left: 5%;
+}
+
+#principleimg {
+    margin-top: 10px;
+    width: 530px;
+    height: 295px;
+}
+
+#linea {
+    line-height: 10px;
+}
+
+#margintop {
+    border: dotted;
+    color: red;
+    margin-bottom: -10%;
+}
+
+#marginbottom {
+    margin-top: -10%;
+    border: dotted;
+    color: red;
+}
+
+#eat {
+    margin-top: -18%;
+    margin-left: 26%;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: navy;
+    font-weight: 900;
+    margin-bottom: 2%;
+}
+
+#and {
+    margin-top: -3%;
+    margin-left: 36%;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 900;
+}
+
+#pay {
+    margin-left: 35%;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: red;
+    font-weight: 900;
+    margin-top: -4%;
+}
+
+#top {
+    margin-top: 7%;
+    color: #1175f1;
+    width: 160%;
+}
+
+#bottom {
+    margin-top: 11%;
+    color: #1175f1;
+    width: 160%;
+}
