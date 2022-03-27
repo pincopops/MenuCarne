@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    color: #3A5374;
+}
+
+body{
+    background: #BBA594;
+}
+/* Stile del logo */
+.logo1 {
+    display: inline-block;
+    width: 25%;
+    height: 25%;
+    margin-right: 0px;
+}
+
+div img {
+    width: 60%;
+    height: 60%;
+}
+
+.logo1 h2 {
+    color: #452874;
+}
+
+/* Stile sotto logo */
+.sub-header{
+    text-align: center;
+}
+section h2, #title{
+    color: #452874;
+}
+
+/* Stile sezioni */
+section {
+    display: inline-block;
+    border: 1px solid black;
+}
+
+section h2 {
+    display: inline-block;
+}
+li {
+    margin-left: 50px;
+}
+section img {
+    width: 10%;
+    height: 10%;
+}
+
+/* Stile liste */
+
+ul p {
+    margin-top: 0;
+    font-style: italic;
+}
+ ul h4 {
+     margin-bottom: 0;
+ }
