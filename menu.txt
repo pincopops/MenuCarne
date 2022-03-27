@@ -3,25 +3,25 @@ Ristorante Marmotta Tuonante
 Menu di carne
 
 Primo
-Tonnarelli alla carbonara - aggiunto da Josè
+Tonnarelli alla carbonara 12€ - aggiunto da Josè
 Bistecca alla fiorentina 2kg/35€ - aggiunto da Francesco
 
 Secondo
-Arrosto di maiale - aggiunto da Josè
-Braciole di marmotta - aggiunto da Francesco
+Arrosto di maiale 12€ - aggiunto da Josè
+Braciole di marmotta 12€ - aggiunto da Francesco
 
 Bevande
-Acqua frizzante - aggiunto da Josè
+Acqua frizzante 1.20€ - aggiunto da Josè
 Acqua naturale 1.00€ - aggiunto da Francesco
 
 Vino Rosso
-Vino Rosso della casa - aggiunto da Josè
+Vino Rosso della casa 15€ - aggiunto da Josè
 
 Vino Bianco
-Vino bianco della casa - aggiunto da Josè
+Vino bianco della casa 25€ - aggiunto da Josè
 Vino Marmottiano 25€ - aggiunto da Francesco
 
 Analcolici
-Coca-Cola - aggiunto da Josè
+Coca-Cola 2.50 - aggiunto da Josè
 Fanta 2.40€ - aggiunto da Francesco
 Sprite 2.00€ - aggiunto da Francesco 
