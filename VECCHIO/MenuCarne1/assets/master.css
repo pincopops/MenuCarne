@@ -31,10 +31,18 @@ section h2, #title{
     color: #452874;
 }
 
+/* Stile generale menu */
+.menu {
+    position: relative;
+}
+
 /* Stile sezioni */
 section {
     display: inline-block;
     border: 1px solid black;
+    width: 45%;
+    height: 45%;
+    border-radius: 5%;
 }
 
 section h2 {
@@ -46,6 +54,11 @@ li {
 section img {
     width: 10%;
     height: 10%;
+}
+
+.right-side {
+    position: absolute;
+    right: 0;
 }
 
 /* Stile liste */
